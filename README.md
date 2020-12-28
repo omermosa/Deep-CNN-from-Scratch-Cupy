@@ -5,3 +5,10 @@ This repo implements Deep Convolutional Neural networks along with Fully connect
 The implementation is inspired by Tensorflow.Keras API Sequential model. I tried to make the same layers and the same functionality equivalent to using tf.keras.
 
 The model was able to achieve about 90% on the test data, which is close to the accuracy of the powerful MobileNet V2 on the same data.
+
+best performing models are attached and can be loaded using
+model.load_model() to reproduce the results on the data. The link to the data and
+the models is provided below:
+https://drive.google.com/drive/folders/1wuF9XOJNXr0PKIhkALEyP9Ya5UPXsFK7
+?usp=sharing
+
